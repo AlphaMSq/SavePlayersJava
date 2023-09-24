@@ -1,0 +1,11 @@
+name: SavePlayers
+version: 1.0.0
+main: io.greitan.uniworlds.SavePlayers
+description: Плагин для переноса вещей игроков с Java на Bedrock.
+author: Alpha
+website: https://uniwords.fun
+api-version: '1.20'
+prefix: SavePlayers
+depend:
+  - PlaceholderAPI
+  - NBTAPI
